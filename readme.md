@@ -1,6 +1,6 @@
 # Product preview card component solution
 
-This is a solution to the Product preview card component (https://www.frontendmentor.io/challenges/product-preview-card-component-GO7UmttRfa).
+This is a solution to the Product preview card component.
 
 ## Table of contents
 
